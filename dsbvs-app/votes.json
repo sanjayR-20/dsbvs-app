@@ -1,0 +1,145 @@
+[
+  {
+    "voterId": "TN0001",
+    "voterName": "User1",
+    "party": "DMK",
+    "comment": "Great vision for the state!",
+    "sentiment": 1.0,
+    "weight": 1.0,
+    "timestamp": "2025-05-18T01:37:21.309266",
+    "prev_hash": "",
+    "hash": "ecc8fc91f91276a3704cd47f4eee410a129f299018b72eb36738b34f63decab1"
+  },
+  {
+    "voterId": "TN0002",
+    "voterName": "User2",
+    "party": "AIADMK",
+    "comment": "Stable leadership and good governance.",
+    "sentiment": 0.7,
+    "weight": 1.0,
+    "timestamp": "2025-05-18T01:37:21.309528",
+    "prev_hash": "ecc8fc91f91276a3704cd47f4eee410a129f299018b72eb36738b34f63decab1",
+    "hash": "a3d03ed367f01e1aa5baaf25db4a79354457174ae7809396de8f13fc5761ee43"
+  },
+  {
+    "voterId": "TN0003",
+    "voterName": "User3",
+    "party": "BJP",
+    "comment": "Development and national integration.",
+    "sentiment": 0.0,
+    "weight": 0.7,
+    "timestamp": "2025-05-18T01:37:21.309647",
+    "prev_hash": "a3d03ed367f01e1aa5baaf25db4a79354457174ae7809396de8f13fc5761ee43",
+    "hash": "b174641e8c90e5e057d470192a2b1d02c1faf881d495d78811c92662a1396525"
+  },
+  {
+    "voterId": "TN0004",
+    "voterName": "User4",
+    "party": "INC",
+    "comment": "Historic party with new ideas.",
+    "sentiment": 0.07,
+    "weight": 0.85,
+    "timestamp": "2025-05-18T01:37:21.309759",
+    "prev_hash": "b174641e8c90e5e057d470192a2b1d02c1faf881d495d78811c92662a1396525",
+    "hash": "80b9dba95356733849898c4b02634cab5cec840d2483d61a9aac0e21f869124d"
+  },
+  {
+    "voterId": "TN0005",
+    "voterName": "User5",
+    "party": "NTK",
+    "comment": "Focus on environment and youth.",
+    "sentiment": 0.0,
+    "weight": 0.7,
+    "timestamp": "2025-05-18T01:37:21.309864",
+    "prev_hash": "80b9dba95356733849898c4b02634cab5cec840d2483d61a9aac0e21f869124d",
+    "hash": "7b2ee51b2d243790275f641b4084604185b7b19b983524994fe6ee046a0d27cc"
+  },
+  {
+    "voterId": "TN0006",
+    "voterName": "User6",
+    "party": "DMDK",
+    "comment": "Fresh perspective in politics.",
+    "sentiment": 0.3,
+    "weight": 0.85,
+    "timestamp": "2025-05-18T01:37:21.309961",
+    "prev_hash": "7b2ee51b2d243790275f641b4084604185b7b19b983524994fe6ee046a0d27cc",
+    "hash": "b87fbee82a9340d26de37039169b9ebe6c2f99e9714f888a698c4fb3c02a86c4"
+  },
+  {
+    "voterId": "TN0007",
+    "voterName": "User7",
+    "party": "DMK",
+    "comment": "Progressive policies.",
+    "sentiment": 0.0,
+    "weight": 0.7,
+    "timestamp": "2025-05-18T01:37:21.310045",
+    "prev_hash": "b87fbee82a9340d26de37039169b9ebe6c2f99e9714f888a698c4fb3c02a86c4",
+    "hash": "1fa2d7ecc03b50dd75c698a8946471aff27af3b60ff8b62781c2f53a0c6ba93c"
+  },
+  {
+    "voterId": "TN0008",
+    "voterName": "User8",
+    "party": "AIADMK",
+    "comment": "Strong welfare schemes.",
+    "sentiment": 0.43,
+    "weight": 0.85,
+    "timestamp": "2025-05-18T01:37:21.310145",
+    "prev_hash": "1fa2d7ecc03b50dd75c698a8946471aff27af3b60ff8b62781c2f53a0c6ba93c",
+    "hash": "097119850a9debad3f9358def4eff69974236e433bd2a1d97364f0c9154a9ce3"
+  },
+  {
+    "voterId": "TN0009",
+    "voterName": "User9",
+    "party": "BJP",
+    "comment": "Bold reforms.",
+    "sentiment": 0.33,
+    "weight": 0.85,
+    "timestamp": "2025-05-18T01:37:21.310233",
+    "prev_hash": "097119850a9debad3f9358def4eff69974236e433bd2a1d97364f0c9154a9ce3",
+    "hash": "63a0c028a6aaa05334fd1c64c1a15561133353f708274838ba4ee554240339fe"
+  },
+  {
+    "voterId": "TN0010",
+    "voterName": "User10",
+    "party": "NTK",
+    "comment": "Innovative and energetic.",
+    "sentiment": 0.5,
+    "weight": 0.85,
+    "timestamp": "2025-05-18T01:37:21.310330",
+    "prev_hash": "63a0c028a6aaa05334fd1c64c1a15561133353f708274838ba4ee554240339fe",
+    "hash": "1bd0fb90dab2fd9d1e44019eb24543b4fe7aa931314625a8268bd489cb1d0633"
+  },
+  {
+    "voterId": "9988828919",
+    "voterName": "Sanjay",
+    "party": "BJP",
+    "comment": "i want this party to win because the leader is pretty",
+    "sentiment": 0.53,
+    "weight": 1.0,
+    "timestamp": "2025-05-18T01:37:55.042878",
+    "prev_hash": "1bd0fb90dab2fd9d1e44019eb24543b4fe7aa931314625a8268bd489cb1d0633",
+    "hash": "5eb30c39d8036bd40ac723614ec57bdfd8936c8f072053ac629e1af7e0772896"
+  },
+  {
+    "voterId": "998882891",
+    "voterName": "Sanjay",
+    "party": "AIADMK",
+    "comment": "bbb",
+    "sentiment": 0.0,
+    "weight": 0.7,
+    "timestamp": "2025-05-18T01:38:37.388243",
+    "prev_hash": "5eb30c39d8036bd40ac723614ec57bdfd8936c8f072053ac629e1af7e0772896",
+    "hash": "3986136e1936bf08f2b616db082c444b0724e98e08321675eb9b55ccefa67290"
+  },
+  {
+    "voterId": "9988828917",
+    "voterName": "Sanjay",
+    "party": "DMK",
+    "comment": "very bad",
+    "sentiment": -0.91,
+    "weight": 0.52,
+    "timestamp": "2025-05-18T01:40:54.484024",
+    "prev_hash": "3986136e1936bf08f2b616db082c444b0724e98e08321675eb9b55ccefa67290",
+    "hash": "c5cc6f04ce8eb2a68d762fafbd694e8472aafb005c757f4669846b70fd628822"
+  }
+]
