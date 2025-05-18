@@ -1,4 +1,0 @@
-Flask
-TextBlob
-Matplotlib
-Pillow
